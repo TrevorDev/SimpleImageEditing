@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SimpleImageEditing</id>
+    <version>1.0</version>
+    <title>SimpleImageEditing</title>
+    <authors>Trevor Baron</authors>
+    <owners>Trevor Baron</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Edit a software bitmap by accessing pixels</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>SoftWareBitmap Imaging Edit Editing Pixel Modify</tags>
+  </metadata>
+</package>
